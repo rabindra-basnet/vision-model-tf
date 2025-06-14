@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>img_00054_aug_landmark4_jpg.rf.f926ba64fe04e083946e2939bdc2cfc4.jpg</filename>
+	<path>img_00054_aug_landmark4_jpg.rf.f926ba64fe04e083946e2939bdc2cfc4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>26</xmin>
+			<xmax>493</xmax>
+			<ymin>1</ymin>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

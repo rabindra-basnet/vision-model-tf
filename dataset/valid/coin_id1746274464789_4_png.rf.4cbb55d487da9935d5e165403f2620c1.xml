@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>coin_id1746274464789_4_png.rf.4cbb55d487da9935d5e165403f2620c1.jpg</filename>
+	<path>coin_id1746274464789_4_png.rf.4cbb55d487da9935d5e165403f2620c1.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>89</xmin>
+			<xmax>478</xmax>
+			<ymin>70</ymin>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

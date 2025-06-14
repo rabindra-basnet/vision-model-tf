@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>emerald_id1746887924172_45_png.rf.627556305ae4256c0e558b0aa8db1167.jpg</filename>
+	<path>emerald_id1746887924172_45_png.rf.627556305ae4256c0e558b0aa8db1167.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>emerald</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>27</xmin>
+			<xmax>619</xmax>
+			<ymin>22</ymin>
+			<ymax>620</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

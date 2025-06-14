@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>fossil_id1746427135929_5_png.rf.e5f43bbf2cabbc13362b7b218ee2b7f8.jpg</filename>
+	<path>fossil_id1746427135929_5_png.rf.e5f43bbf2cabbc13362b7b218ee2b7f8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fossil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>78</xmin>
+			<xmax>462</xmax>
+			<ymin>170</ymin>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>crystal_id1746274472840_8_png.rf.da3fe154dcfb94b2670f1dceae3c08b4.jpg</filename>
+	<path>crystal_id1746274472840_8_png.rf.da3fe154dcfb94b2670f1dceae3c08b4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crystal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>183</xmin>
+			<xmax>436</xmax>
+			<ymin>77</ymin>
+			<ymax>515</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>key_id1746427140701_4_png.rf.052ab89177a8eb62571d5afb4908c6d8.jpg</filename>
+	<path>key_id1746427140701_4_png.rf.052ab89177a8eb62571d5afb4908c6d8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>key</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>206</xmin>
+			<xmax>466</xmax>
+			<ymin>8</ymin>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>4-1-_aug4_jpg.rf.36211989b6c4c43dc5904e42bcf9cf5a.jpg</filename>
+	<path>4-1-_aug4_jpg.rf.36211989b6c4c43dc5904e42bcf9cf5a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>key</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>152</xmin>
+			<xmax>165</xmax>
+			<ymin>149</ymin>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

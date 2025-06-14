@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>compass_id1746427116550_17_png.rf.9c588e84da0c9300c6459c383fcf2652.jpg</filename>
+	<path>compass_id1746427116550_17_png.rf.9c588e84da0c9300c6459c383fcf2652.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>compass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>66</xmin>
+			<xmax>497</xmax>
+			<ymin>162</ymin>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

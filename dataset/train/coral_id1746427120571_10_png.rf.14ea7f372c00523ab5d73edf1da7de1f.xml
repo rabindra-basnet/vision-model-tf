@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>coral_id1746427120571_10_png.rf.14ea7f372c00523ab5d73edf1da7de1f.jpg</filename>
+	<path>coral_id1746427120571_10_png.rf.14ea7f372c00523ab5d73edf1da7de1f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>59</xmin>
+			<xmax>454</xmax>
+			<ymin>142</ymin>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

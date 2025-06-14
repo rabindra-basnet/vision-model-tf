@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>letter_id1746427146587_12_png.rf.c9be275778e41364afc904e46f52c4df.jpg</filename>
+	<path>letter_id1746427146587_12_png.rf.c9be275778e41364afc904e46f52c4df.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>letter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>182</xmin>
+			<xmax>488</xmax>
+			<ymin>144</ymin>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

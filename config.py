@@ -14,7 +14,17 @@ TEST_DATASET_PATH = f'{cwd}/dataset/test'
 MODEL_PATH = f'{cwd}/model'
 
 MODEL = 'efficientdet_lite0'
-MODEL_NAME = 'fish.tflite'
-CLASSES = ['fish', 'jellyfish', 'penguin', 'shark', 'puffin', 'stingray', 'starfish']
+MODEL_NAME = 'model_full.tflite'
+CLASSES = ["coin",
+"compass",
+"coral",
+"crystal",
+"diamond",
+"emerald",
+"fossil",
+"key",
+"letter",
+"shell",
+"treasure_box" ]
 EPOCHS = 20
 BATCH_SIZE = 4

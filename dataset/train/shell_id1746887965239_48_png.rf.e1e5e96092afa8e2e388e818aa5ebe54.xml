@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>shell_id1746887965239_48_png.rf.e1e5e96092afa8e2e388e818aa5ebe54.jpg</filename>
+	<path>shell_id1746887965239_48_png.rf.e1e5e96092afa8e2e388e818aa5ebe54.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>641</xmax>
+			<ymin>10</ymin>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

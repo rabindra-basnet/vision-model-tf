@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>diamond_id1746887904399_3_png.rf.6b3656f2c3d81aa61dd9adeff5a6e300.jpg</filename>
+	<path>diamond_id1746887904399_3_png.rf.6b3656f2c3d81aa61dd9adeff5a6e300.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>diamond</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>10</xmin>
+			<xmax>631</xmax>
+			<ymin>15</ymin>
+			<ymax>625</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

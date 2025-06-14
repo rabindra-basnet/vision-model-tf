@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>4-3-_aug3_jpg.rf.d5cbbe86f629e086a81a182b447bc9ef.jpg</filename>
+	<path>4-3-_aug3_jpg.rf.d5cbbe86f629e086a81a182b447bc9ef.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>419</xmin>
+			<xmax>456</xmax>
+			<ymin>466</ymin>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

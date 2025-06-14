@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>6-6-_aug5_jpg.rf.2264e0021b18c6c61d70bf193021753d.jpg</filename>
+	<path>6-6-_aug5_jpg.rf.2264e0021b18c6c61d70bf193021753d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>treasure_box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>237</xmin>
+			<xmax>283</xmax>
+			<ymin>484</ymin>
+			<ymax>523</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

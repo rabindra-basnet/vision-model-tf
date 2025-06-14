@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>treasure_box_id1746887971313_25_png.rf.ff4932db037ae44fef666e2a677d3371.jpg</filename>
+	<path>treasure_box_id1746887971313_25_png.rf.ff4932db037ae44fef666e2a677d3371.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>treasure_box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>10</xmin>
+			<xmax>631</xmax>
+			<ymin>19</ymin>
+			<ymax>632</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>
